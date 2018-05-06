@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="700px" height="700px"
+	 viewBox="0 0 700 700" enable-background="new 0 0 700 700" xml:space="preserve">
+<g>
+	<rect x="31.818" y="31.819" fill="none" stroke="#333333" stroke-width="10" width="636.363" height="636.363"/>
+	<rect x="137.879" y="137.879" fill="none" stroke="#333333" stroke-width="10" width="424.242" height="424.239"/>
+	<rect x="243.939" y="243.94" fill="none" stroke="#333333" stroke-width="10" width="212.121" height="212.121"/>
+	<line fill="none" stroke="#333333" stroke-width="10" x1="350" y1="31.819" x2="350" y2="243.94"/>
+	<line fill="none" stroke="#333333" stroke-width="10" x1="350" y1="668.182" x2="350" y2="456.061"/>
+	<line fill="none" stroke="#333333" stroke-width="10" x1="31.818" y1="350" x2="243.939" y2="350"/>
+	<line fill="none" stroke="#333333" stroke-width="10" x1="668.182" y1="350" x2="456.061" y2="350"/>
+</g>
+<g>
+	<circle fill="#333333" cx="31.818" cy="31.818" r="15.909"/>
+	<circle fill="#333333" cx="31.818" cy="350" r="15.909"/>
+	<circle fill="#333333" cx="31.818" cy="668.182" r="15.909"/>
+	<circle fill="#333333" cx="137.879" cy="137.879" r="15.909"/>
+	<circle fill="#333333" cx="137.879" cy="350" r="15.909"/>
+	<circle fill="#333333" cx="137.879" cy="562.121" r="15.909"/>
+	<circle fill="#333333" cx="243.939" cy="243.94" r="15.909"/>
+	<circle fill="#333333" cx="243.939" cy="350" r="15.909"/>
+	<circle fill="#333333" cx="243.939" cy="456.061" r="15.909"/>
+	<circle fill="#333333" cx="350" cy="31.818" r="15.909"/>
+	<circle fill="#333333" cx="350" cy="137.879" r="15.909"/>
+	<circle fill="#333333" cx="350" cy="243.94" r="15.909"/>
+	<circle fill="#333333" cx="350" cy="456.061" r="15.909"/>
+	<circle fill="#333333" cx="350" cy="562.121" r="15.909"/>
+	<circle fill="#333333" cx="350" cy="668.182" r="15.909"/>
+	<circle fill="#333333" cx="456.061" cy="243.94" r="15.909"/>
+	<circle fill="#333333" cx="456.061" cy="350" r="15.909"/>
+	<circle fill="#333333" cx="456.061" cy="456.061" r="15.909"/>
+	<circle fill="#333333" cx="562.121" cy="137.879" r="15.909"/>
+	<circle fill="#333333" cx="562.121" cy="350" r="15.909"/>
+	<circle fill="#333333" cx="562.121" cy="562.121" r="15.909"/>
+	<circle fill="#333333" cx="668.182" cy="31.818" r="15.909"/>
+	<circle fill="#333333" cx="668.182" cy="350" r="15.909"/>
+	<circle fill="#333333" cx="668.182" cy="668.182" r="15.909"/>
+</g>
+</svg>
