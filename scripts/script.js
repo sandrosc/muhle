@@ -42,10 +42,10 @@ $(document).ready(function() {
           }
           teardownDelete();
         } else {
-          $('#info').text('Du darfst keinen Stein der M�hle nehmen');
+          $('#info').text('Du darfst keinen Stein der Mühle nehmen');
         }
       } else {
-        $('#info').text('Zerst�re ein Stein des Gegners');
+        $('#info').text('Zerstöre ein Stein des Gegners');
       }
     } else {
       if (field.player === null || laterEnabled) {
@@ -57,7 +57,7 @@ $(document).ready(function() {
         var destroyableFields = getDestroyableFields();
         if (GotDestroyEnabled(field, false) && destroyableFields.length > 0) {
           isDestroyMode = true;
-          $('#info').text('Zerst�re einen Stein des Gegners');
+          $('#info').text('Zerstöre einen Stein des Gegners');
           setupDelete(destroyableFields);
         } else {
           switchActualPlayer();
